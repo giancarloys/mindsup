@@ -144,7 +144,7 @@
                         <h1>POPULAR COURSES</h1>
                         <hr>
                         <p>
-                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Repudiandae cumque incidunt itaque eos adipisci provident magni reprehenderit, quo non amet reiciendis at modi excepturi inventore. Et minima dolores illum eligendi!
+                            Lorem, rtyyrytrtyrt dolor sit amet consectetur adipisicing elit. Repudiandae cumque incidunt itaque eos adipisci provident magni reprehenderit, quo non amet reiciendis at modi excepturi inventore. Et minima dolores illum eligendi!
                         </p>
                     </div>
                 </div> 
